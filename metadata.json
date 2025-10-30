@@ -1,0 +1,5 @@
+{
+  "name": "PrepAI",
+  "description": "An interactive agent for preparing for technical software engineering interviews. It guides users, evaluates their performance through simulations, and tracks their progress.",
+  "requestFramePermissions": []
+}
